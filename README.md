@@ -4,6 +4,8 @@
 Script to pull data from USB to TTL(Serial) Converter
 
 Dependencies:
+
+
 	pip install pyserial
 
 Note:
